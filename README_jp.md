@@ -23,5 +23,5 @@ Edit > Preferences > Add-ons > Install... and select Load_Obj_Sequence_as_Shape_
 * 転送先のオブジェクトに既に転送元と同じ名称のシェイプキーがあった場合、"ほげ.001"のように追加されます。(既存のシェイプキーは上書きされない)
 
 ## ライセンス
-* オリジナルのスクリプトは blender Stack Exchange に公開されているものです。したがって、このスクリプトのラインセンスも [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) になります。
+* オリジナルのスクリプトは blender Stack Exchange に公開されているものです。したがって、このスクリプトのラインセンスも [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) です。
   - [blender Stack Exchange license](https://blender.stackexchange.com/help/licensing)
